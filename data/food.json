@@ -1,0 +1,1022 @@
+[
+    {
+        "id": 12,
+        "name": "Aloo Gobi",
+        "category": "Main",
+        "calories": 170,
+        "protein_g": 4,
+        "carbs_g": 22,
+        "fats_g": 7,
+        "fibre_g": 4,
+        "ayurveda": {
+            "vataEffect": "Aggravating due to potato and cauliflower gas",
+            "pittaEffect": "Neutral if mildly spiced",
+            "kaphaEffect": "Aggravating if oily",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Lunch"
+        }
+    },
+    {
+        "id": 27,
+        "name": "Aloo Paratha",
+        "category": "Breakfast",
+        "calories": 280,
+        "protein_g": 7,
+        "carbs_g": 36,
+        "fats_g": 11,
+        "fibre_g": 4,
+        "ayurveda": {
+            "vataEffect": "Balancing with ghee but heavy",
+            "pittaEffect": "Aggravating if very spicy",
+            "kaphaEffect": "Aggravating due to heaviness",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Breakfast, Brunch"
+        }
+    },
+    {
+        "id": 31,
+        "name": "Buttermilk (Chaas)",
+        "category": "Drink",
+        "calories": 40,
+        "protein_g": 2,
+        "carbs_g": 5,
+        "fats_g": 1,
+        "fibre_g": 0,
+        "ayurveda": {
+            "vataEffect": "Balancing with rock salt",
+            "pittaEffect": "Cooling",
+            "kaphaEffect": "Balancing when spiced lightly",
+            "thermalNature": "Cooling",
+            "bestTimeToEat": "Midday with lunch"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Chole",
+        "category": "Main",
+        "calories": 230,
+        "protein_g": 10,
+        "carbs_g": 32,
+        "fats_g": 6,
+        "fibre_g": 7,
+        "ayurveda": {
+            "vataEffect": "Aggravating if too spicy or oily",
+            "pittaEffect": "Aggravating with strong masala",
+            "kaphaEffect": "Aggravating, heavy",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Lunch"
+        }
+    },
+    {
+        "id": 28,
+        "name": "Chole Bhature",
+        "category": "Street Food",
+        "calories": 420,
+        "protein_g": 12,
+        "carbs_g": 45,
+        "fats_g": 20,
+        "fibre_g": 6,
+        "ayurveda": {
+            "vataEffect": "Highly aggravating (fried, gas-forming)",
+            "pittaEffect": "Aggravating (spice, oil)",
+            "kaphaEffect": "Highly aggravating (fried, heavy)",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Rare lunch treat"
+        }
+    },
+    {
+        "id": 57,
+        "name": "Chana Masala",
+        "category": "Main",
+        "calories": 230,
+        "protein_g": 10,
+        "carbs_g": 32,
+        "fats_g": 6,
+        "fibre_g": 7,
+        "ayurveda": {
+            "vataEffect": "Aggravating if not well cooked or very spicy",
+            "pittaEffect": "Aggravating with strong masala",
+            "kaphaEffect": "Aggravating as it is heavy and gas-forming",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Lunch"
+        }
+    },
+    {
+        "id": 24,
+        "name": "Pav Bhaji",
+        "category": "Street Food",
+        "calories": 320,
+        "protein_g": 8,
+        "carbs_g": 44,
+        "fats_g": 12,
+        "fibre_g": 5,
+        "ayurveda": {
+            "vataEffect": "Aggravating due to bread and spice",
+            "pittaEffect": "Aggravating (spicy, oily)",
+            "kaphaEffect": "Aggravating (bread, butter)",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Occasional early dinner"
+        }
+    },
+    {
+        "id": 60,
+        "name": "Kadhi Pakora",
+        "category": "Main",
+        "calories": 260,
+        "protein_g": 8,
+        "carbs_g": 24,
+        "fats_g": 14,
+        "fibre_g": 2,
+        "ayurveda": {
+            "vataEffect": "Balancing due to yogurt base but pakoras are heavy",
+            "pittaEffect": "Aggravating if very sour or spicy",
+            "kaphaEffect": "Aggravating due to fried pakoras and yogurt",
+            "thermalNature": "Cooling-heating combination",
+            "bestTimeToEat": "Lunch"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Kadhi",
+        "category": "Main",
+        "calories": 160,
+        "protein_g": 6,
+        "carbs_g": 18,
+        "fats_g": 6,
+        "fibre_g": 1,
+        "ayurveda": {
+            "vataEffect": "Balancing due to yogurt",
+            "pittaEffect": "Slightly aggravating if very sour",
+            "kaphaEffect": "Aggravating because of yogurt and gram flour",
+            "thermalNature": "Cooling",
+            "bestTimeToEat": "Lunch"
+        }
+    },
+    {
+        "id": 22,
+        "name": "Kachori",
+        "category": "Street Food",
+        "calories": 280,
+        "protein_g": 6,
+        "carbs_g": 32,
+        "fats_g": 15,
+        "fibre_g": 3,
+        "ayurveda": {
+            "vataEffect": "Aggravating (fried, spicy)",
+            "pittaEffect": "Aggravating",
+            "kaphaEffect": "Aggravating and heavy",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Rare treat, evening"
+        }
+    },
+    {
+        "id": 43,
+        "name": "Fish Curry",
+        "category": "Main (Non-veg)",
+        "calories": 260,
+        "protein_g": 20,
+        "carbs_g": 5,
+        "fats_g": 17,
+        "fibre_g": 1,
+        "ayurveda": {
+            "vataEffect": "Balancing near coastal climates",
+            "pittaEffect": "Aggravating if very sour or spicy",
+            "kaphaEffect": "Moderately aggravating if oily",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Lunch"
+        }
+    },
+    {
+        "id": 63,
+        "name": "Falooda",
+        "category": "Dessert",
+        "calories": 320,
+        "protein_g": 6,
+        "carbs_g": 55,
+        "fats_g": 9,
+        "fibre_g": 2,
+        "ayurveda": {
+            "vataEffect": "Balancing but heavy",
+            "pittaEffect": "Cooling but can aggravate if very sugary",
+            "kaphaEffect": "Highly aggravating due to milk and sugar",
+            "thermalNature": "Cooling",
+            "bestTimeToEat": "Occasional summer dessert"
+        }
+    },
+    {
+        "id": 38,
+        "name": "Kheer",
+        "category": "Dessert",
+        "calories": 230,
+        "protein_g": 6,
+        "carbs_g": 32,
+        "fats_g": 8,
+        "fibre_g": 0,
+        "ayurveda": {
+            "vataEffect": "Balancing with cardamom",
+            "pittaEffect": "Slightly aggravating if very sweet",
+            "kaphaEffect": "Aggravating (milk + sugar combo)",
+            "thermalNature": "Cooling",
+            "bestTimeToEat": "Festive lunch dessert"
+        }
+    },
+    {
+        "id": 62,
+        "name": "Sugarcane Juice",
+        "category": "Drink",
+        "calories": 180,
+        "protein_g": 0,
+        "carbs_g": 45,
+        "fats_g": 0,
+        "fibre_g": 0,
+        "ayurveda": {
+            "vataEffect": "Balancing and grounding in heat",
+            "pittaEffect": "Highly cooling and balancing",
+            "kaphaEffect": "Aggravating due to sweetness if overused",
+            "thermalNature": "Cooling",
+            "bestTimeToEat": "Hot afternoons, summer"
+        }
+    },
+    {
+        "id": 40,
+        "name": "Masala Chai",
+        "category": "Drink",
+        "calories": 70,
+        "protein_g": 2,
+        "carbs_g": 10,
+        "fats_g": 2,
+        "fibre_g": 0,
+        "ayurveda": {
+            "vataEffect": "Balancing and grounding",
+            "pittaEffect": "Aggravating due to caffeine and spice",
+            "kaphaEffect": "Balancing in small quantity",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Morning, Evening"
+        }
+    },
+    {
+        "id": 47,
+        "name": "Masala Dosa",
+        "category": "Breakfast",
+        "calories": 280,
+        "protein_g": 6,
+        "carbs_g": 38,
+        "fats_g": 10,
+        "fibre_g": 3,
+        "ayurveda": {
+            "vataEffect": "Aggravating if very crispy or eaten cold",
+            "pittaEffect": "Neutral with mild chutney and sambar",
+            "kaphaEffect": "Aggravating due to oil and potato",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Breakfast, Brunch"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Rajma",
+        "category": "Main",
+        "calories": 220,
+        "protein_g": 11,
+        "carbs_g": 30,
+        "fats_g": 5,
+        "fibre_g": 8,
+        "ayurveda": {
+            "vataEffect": "Aggravating if not well cooked",
+            "pittaEffect": "Neutral",
+            "kaphaEffect": "Slightly aggravating, heavy to digest",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Lunch"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Sarson Da Saag",
+        "category": "Regional",
+        "calories": 200,
+        "protein_g": 7,
+        "carbs_g": 16,
+        "fats_g": 12,
+        "fibre_g": 5,
+        "ayurveda": {
+            "vataEffect": "Balancing with ghee",
+            "pittaEffect": "Aggravating due to mustard heat",
+            "kaphaEffect": "Neutral",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Lunch in winter"
+        }
+    },
+    {
+        "id": 17,
+        "name": "Litti Chokha",
+        "category": "Regional",
+        "calories": 280,
+        "protein_g": 9,
+        "carbs_g": 35,
+        "fats_g": 10,
+        "fibre_g": 6,
+        "ayurveda": {
+            "vataEffect": "Balancing due to ghee",
+            "pittaEffect": "Slightly aggravating if very spicy",
+            "kaphaEffect": "Aggravating because of heaviness",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Lunch"
+        }
+    },
+    {
+        "id": 16,
+        "name": "Khichdi",
+        "category": "Main",
+        "calories": 190,
+        "protein_g": 7,
+        "carbs_g": 30,
+        "fats_g": 4,
+        "fibre_g": 3,
+        "ayurveda": {
+            "vataEffect": "Very balancing and light",
+            "pittaEffect": "Balancing",
+            "kaphaEffect": "Balancing when made light",
+            "thermalNature": "Neutral",
+            "bestTimeToEat": "Anytime, ideal when sick"
+        }
+    },
+    {
+        "id": 35,
+        "name": "Moong Dal Chilla",
+        "category": "Breakfast",
+        "calories": 160,
+        "protein_g": 9,
+        "carbs_g": 18,
+        "fats_g": 4,
+        "fibre_g": 3,
+        "ayurveda": {
+            "vataEffect": "Balancing when cooked in ghee",
+            "pittaEffect": "Balancing",
+            "kaphaEffect": "Balancing as it is light",
+            "thermalNature": "Neutral",
+            "bestTimeToEat": "Breakfast, Dinner"
+        }
+    },
+    {
+        "id": 41,
+        "name": "Veg Biryani",
+        "category": "Main",
+        "calories": 300,
+        "protein_g": 7,
+        "carbs_g": 45,
+        "fats_g": 9,
+        "fibre_g": 3,
+        "ayurveda": {
+            "vataEffect": "Balancing when eaten warm with ghee",
+            "pittaEffect": "Aggravating if very spicy",
+            "kaphaEffect": "Aggravating if oily and heavy",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Lunch"
+        }
+    },
+    {
+        "id": 25,
+        "name": "Veg Sandwich",
+        "category": "Snack",
+        "calories": 190,
+        "protein_g": 6,
+        "carbs_g": 28,
+        "fats_g": 5,
+        "fibre_g": 3,
+        "ayurveda": {
+            "vataEffect": "Neutral if grilled and warm",
+            "pittaEffect": "Neutral with mild sauces",
+            "kaphaEffect": "Aggravating if cheese-heavy",
+            "thermalNature": "Neutral",
+            "bestTimeToEat": "Breakfast, Evening snack"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Veg Pulao",
+        "category": "Main",
+        "calories": 250,
+        "protein_g": 5,
+        "carbs_g": 40,
+        "fats_g": 7,
+        "fibre_g": 3,
+        "ayurveda": {
+            "vataEffect": "Balancing when eaten warm",
+            "pittaEffect": "Neutral if mildly spiced",
+            "kaphaEffect": "Aggravating if oily",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Lunch"
+        }
+    },
+    {
+        "id": 36,
+        "name": "Sprouts Salad",
+        "category": "Snack",
+        "calories": 100,
+        "protein_g": 7,
+        "carbs_g": 16,
+        "fats_g": 1,
+        "fibre_g": 3,
+        "ayurveda": {
+            "vataEffect": "Aggravating (raw, dry) if eaten in excess",
+            "pittaEffect": "Neutral",
+            "kaphaEffect": "Balancing and light",
+            "thermalNature": "Cooling",
+            "bestTimeToEat": "Daytime snack"
+        }
+    },
+    {
+        "id": 33,
+        "name": "Green Salad",
+        "category": "Side",
+        "calories": 40,
+        "protein_g": 2,
+        "carbs_g": 8,
+        "fats_g": 0,
+        "fibre_g": 3,
+        "ayurveda": {
+            "vataEffect": "Aggravating if eaten at night or in excess",
+            "pittaEffect": "Cooling and balancing",
+            "kaphaEffect": "Balancing",
+            "thermalNature": "Cooling",
+            "bestTimeToEat": "Lunch, early evening"
+        }
+    },
+    {
+        "id": 45,
+        "name": "Rasam",
+        "category": "Side",
+        "calories": 80,
+        "protein_g": 3,
+        "carbs_g": 12,
+        "fats_g": 2,
+        "fibre_g": 2,
+        "ayurveda": {
+            "vataEffect": "Balancing due to warmth and spices",
+            "pittaEffect": "Can be aggravating if very sour",
+            "kaphaEffect": "Balancing as it is light and warming",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Lunch, Dinner"
+        }
+    },
+    {
+        "id": 11,
+        "name": "Sabzi (Bhindi Masala)",
+        "category": "Main",
+        "calories": 140,
+        "protein_g": 3,
+        "carbs_g": 10,
+        "fats_g": 9,
+        "fibre_g": 4,
+        "ayurveda": {
+            "vataEffect": "Balancing when cooked well",
+            "pittaEffect": "Neutral with light spices",
+            "kaphaEffect": "Neutral",
+            "thermalNature": "Neutral",
+            "bestTimeToEat": "Lunch, Dinner"
+        }
+    },
+    {
+        "id": 68,
+        "name": "Idli Sambar",
+        "category": "Breakfast",
+        "calories": 190,
+        "protein_g": 6,
+        "carbs_g": 30,
+        "fats_g": 3,
+        "fibre_g": 3,
+        "ayurveda": {
+            "vataEffect": "Can aggravate if idli is cold, balanced with warm sambar",
+            "pittaEffect": "Balancing if mildly spiced",
+            "kaphaEffect": "Slightly aggravating if many idlis are eaten",
+            "thermalNature": "Neutral to cooling",
+            "bestTimeToEat": "Breakfast"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Idli",
+        "category": "Breakfast",
+        "calories": 70,
+        "protein_g": 2,
+        "carbs_g": 12,
+        "fats_g": 1,
+        "fibre_g": 1,
+        "ayurveda": {
+            "vataEffect": "Can aggravate due to fermentation if taken cold",
+            "pittaEffect": "Balancing when eaten warm",
+            "kaphaEffect": "Slightly aggravating if overeaten",
+            "thermalNature": "Cooling",
+            "bestTimeToEat": "Breakfast"
+        }
+    },
+    {
+        "id": 53,
+        "name": "Curd Rice",
+        "category": "Main",
+        "calories": 220,
+        "protein_g": 7,
+        "carbs_g": 32,
+        "fats_g": 6,
+        "fibre_g": 1,
+        "ayurveda": {
+            "vataEffect": "Balancing and soothing",
+            "pittaEffect": "Cooling and balancing",
+            "kaphaEffect": "Aggravating, especially at night",
+            "thermalNature": "Cooling",
+            "bestTimeToEat": "Lunch, hot climate"
+        }
+    },
+    {
+        "id": 30,
+        "name": "Plain Curd (Dahi)",
+        "category": "Side",
+        "calories": 60,
+        "protein_g": 3,
+        "carbs_g": 4,
+        "fats_g": 3,
+        "fibre_g": 0,
+        "ayurveda": {
+            "vataEffect": "Balancing",
+            "pittaEffect": "Cooling and balancing",
+            "kaphaEffect": "Aggravating, especially at night",
+            "thermalNature": "Cooling",
+            "bestTimeToEat": "Lunch, never late night"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Plain Dosa",
+        "category": "Breakfast",
+        "calories": 120,
+        "protein_g": 3,
+        "carbs_g": 18,
+        "fats_g": 4,
+        "fibre_g": 1,
+        "ayurveda": {
+            "vataEffect": "Aggravating if very crispy and dry",
+            "pittaEffect": "Neutral with mild chutney",
+            "kaphaEffect": "Slightly aggravating due to oil",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Breakfast, Brunch"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Plain Roti (Wheat)",
+        "category": "Main",
+        "calories": 80,
+        "protein_g": 3,
+        "carbs_g": 15,
+        "fats_g": 1,
+        "fibre_g": 2,
+        "ayurveda": {
+            "vataEffect": "Balancing when eaten warm with ghee",
+            "pittaEffect": "Neutral",
+            "kaphaEffect": "Can aggravate if overeaten",
+            "thermalNature": "Neutral",
+            "bestTimeToEat": "Lunch, Early dinner"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Poha",
+        "category": "Breakfast",
+        "calories": 180,
+        "protein_g": 4,
+        "carbs_g": 30,
+        "fats_g": 5,
+        "fibre_g": 2,
+        "ayurveda": {
+            "vataEffect": "Balancing with peanuts and ghee",
+            "pittaEffect": "Neutral",
+            "kaphaEffect": "Slightly aggravating if oily",
+            "thermalNature": "Neutral",
+            "bestTimeToEat": "Breakfast, Evening snack"
+        }
+    },
+    {
+        "id": 52,
+        "name": "Lemon Rice",
+        "category": "Main",
+        "calories": 210,
+        "protein_g": 4,
+        "carbs_g": 36,
+        "fats_g": 6,
+        "fibre_g": 2,
+        "ayurveda": {
+            "vataEffect": "Aggravating if very sour",
+            "pittaEffect": "Aggravating due to citrus sourness",
+            "kaphaEffect": "Balancing if lightly oiled",
+            "thermalNature": "Cooling",
+            "bestTimeToEat": "Lunch, travel food"
+        }
+    },
+    {
+        "id": 61,
+        "name": "Filter Coffee (South Indian)",
+        "category": "Drink",
+        "calories": 60,
+        "protein_g": 2,
+        "carbs_g": 8,
+        "fats_g": 2,
+        "fibre_g": 0,
+        "ayurveda": {
+            "vataEffect": "Balancing in small quantity, stimulating",
+            "pittaEffect": "Aggravating due to caffeine and heat",
+            "kaphaEffect": "Balancing in moderation",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Morning, early afternoon"
+        }
+    },
+    {
+        "id": 51,
+        "name": "Jeera Rice",
+        "category": "Main",
+        "calories": 190,
+        "protein_g": 4,
+        "carbs_g": 34,
+        "fats_g": 4,
+        "fibre_g": 1,
+        "ayurveda": {
+            "vataEffect": "Balancing when served warm",
+            "pittaEffect": "Cooling and light if not too oily",
+            "kaphaEffect": "Aggravating if portion size is large",
+            "thermalNature": "Cooling",
+            "bestTimeToEat": "Lunch"
+        }
+    },
+    {
+        "id": 14,
+        "name": "Palak Paneer",
+        "category": "Main",
+        "calories": 250,
+        "protein_g": 11,
+        "carbs_g": 14,
+        "fats_g": 18,
+        "fibre_g": 4,
+        "ayurveda": {
+            "vataEffect": "Neutral",
+            "pittaEffect": "Can aggravate due to spinach heat",
+            "kaphaEffect": "Neutral if eaten in moderation",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Lunch"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Paneer Butter Masala",
+        "category": "Main",
+        "calories": 320,
+        "protein_g": 10,
+        "carbs_g": 15,
+        "fats_g": 26,
+        "fibre_g": 2,
+        "ayurveda": {
+            "vataEffect": "Balancing but heavy",
+            "pittaEffect": "Aggravating due to spices and tomato",
+            "kaphaEffect": "Highly aggravating (heavy, oily)",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Occasional lunch treat"
+        }
+    },
+    {
+        "id": 48,
+        "name": "Paneer Tikka",
+        "category": "Snack",
+        "calories": 230,
+        "protein_g": 14,
+        "carbs_g": 6,
+        "fats_g": 16,
+        "fibre_g": 1,
+        "ayurveda": {
+            "vataEffect": "Balancing but can be heavy",
+            "pittaEffect": "Aggravating due to spices and grill heat",
+            "kaphaEffect": "Aggravating if overeaten",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Evening snack, starter"
+        }
+    },
+    {
+        "id": 44,
+        "name": "Egg Curry",
+        "category": "Main (Egg)",
+        "calories": 240,
+        "protein_g": 14,
+        "carbs_g": 8,
+        "fats_g": 16,
+        "fibre_g": 1,
+        "ayurveda": {
+            "vataEffect": "Balancing when eaten warm with grains",
+            "pittaEffect": "Aggravating if combined with a lot of chilli",
+            "kaphaEffect": "Aggravating if overeaten",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Breakfast, Lunch"
+        }
+    },
+    {
+        "id": 32,
+        "name": "Lassi (Sweet)",
+        "category": "Drink",
+        "calories": 220,
+        "protein_g": 7,
+        "carbs_g": 32,
+        "fats_g": 7,
+        "fibre_g": 0,
+        "ayurveda": {
+            "vataEffect": "Balancing",
+            "pittaEffect": "Cooling and soothing",
+            "kaphaEffect": "Aggravating due to sugar and heaviness",
+            "thermalNature": "Cooling",
+            "bestTimeToEat": "Summer midday drink"
+        }
+    },
+    {
+        "id": 52,
+        "name": "Lemon Rice",
+        "category": "Main",
+        "calories": 210,
+        "protein_g": 4,
+        "carbs_g": 36,
+        "fats_g": 6,
+        "fibre_g": 2,
+        "ayurveda": {
+            "vataEffect": "Aggravating if very sour",
+            "pittaEffect": "Aggravating due to citrus sourness",
+            "kaphaEffect": "Balancing if lightly oiled",
+            "thermalNature": "Cooling",
+            "bestTimeToEat": "Lunch, travel food"
+        }
+    },
+    {
+        "id": 55,
+        "name": "Pesarattu",
+        "category": "Breakfast",
+        "calories": 200,
+        "protein_g": 9,
+        "carbs_g": 26,
+        "fats_g": 5,
+        "fibre_g": 4,
+        "ayurveda": {
+            "vataEffect": "Balancing when cooked in ghee",
+            "pittaEffect": "Balancing if mildly spiced",
+            "kaphaEffect": "Balancing as it is light and lentil-based",
+            "thermalNature": "Neutral",
+            "bestTimeToEat": "Breakfast, Dinner"
+        }
+    },
+    {
+        "id": 15,
+        "name": "Steamed Rice",
+        "category": "Main",
+        "calories": 130,
+        "protein_g": 3,
+        "carbs_g": 28,
+        "fats_g": 0,
+        "fibre_g": 1,
+        "ayurveda": {
+            "vataEffect": "Balancing when eaten warm",
+            "pittaEffect": "Cooling and balancing",
+            "kaphaEffect": "Aggravating if overeaten",
+            "thermalNature": "Cooling",
+            "bestTimeToEat": "Lunch"
+        }
+    },
+    {
+        "id": 35,
+        "name": "Moong Dal Chilla",
+        "category": "Breakfast",
+        "calories": 160,
+        "protein_g": 9,
+        "carbs_g": 18,
+        "fats_g": 4,
+        "fibre_g": 3,
+        "ayurveda": {
+            "vataEffect": "Balancing when cooked in ghee",
+            "pittaEffect": "Balancing",
+            "kaphaEffect": "Balancing as it is light",
+            "thermalNature": "Neutral",
+            "bestTimeToEat": "Breakfast, Dinner"
+        }
+    },
+    {
+        "id": 18,
+        "name": "Dhokla",
+        "category": "Regional",
+        "calories": 150,
+        "protein_g": 6,
+        "carbs_g": 22,
+        "fats_g": 4,
+        "fibre_g": 2,
+        "ayurveda": {
+            "vataEffect": "Can aggravate due to fermentation if cold",
+            "pittaEffect": "Balancing with mild chutney",
+            "kaphaEffect": "Slightly aggravating",
+            "thermalNature": "Cooling",
+            "bestTimeToEat": "Breakfast, Evening snack"
+        }
+    },
+    {
+        "id": 1,
+        "name": "Dal Tadka",
+        "category": "Main",
+        "calories": 210,
+        "protein_g": 11,
+        "carbs_g": 26,
+        "fats_g": 7,
+        "fibre_g": 6,
+        "ayurveda": {
+            "vataEffect": "Balancing",
+            "pittaEffect": "Slightly aggravating if too spicy",
+            "kaphaEffect": "Neutral",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Lunch, Dinner"
+        }
+    },
+    {
+        "id": 67,
+        "name": "Dahi Puri",
+        "category": "Street Food",
+        "calories": 200,
+        "protein_g": 6,
+        "carbs_g": 30,
+        "fats_g": 6,
+        "fibre_g": 2,
+        "ayurveda": {
+            "vataEffect": "More balancing than dry puris due to yogurt",
+            "pittaEffect": "Cooling but can aggravate if very spicy",
+            "kaphaEffect": "Aggravating due to yogurt and fried base",
+            "thermalNature": "Cooling",
+            "bestTimeToEat": "Evening snack, not late night"
+        }
+    },
+    {
+        "id": 23,
+        "name": "Bhel Puri",
+        "category": "Street Food",
+        "calories": 160,
+        "protein_g": 4,
+        "carbs_g": 28,
+        "fats_g": 4,
+        "fibre_g": 2,
+        "ayurveda": {
+            "vataEffect": "Aggravating (puffed rice, raw onion)",
+            "pittaEffect": "Aggravating with sour and spicy chutneys",
+            "kaphaEffect": "Neutral to slightly aggravating",
+            "thermalNature": "Cooling",
+            "bestTimeToEat": "Evening snack"
+        }
+    },
+    {
+        "id": 56,
+        "name": "Stuffed Paratha (Paneer)",
+        "category": "Breakfast",
+        "calories": 320,
+        "protein_g": 12,
+        "carbs_g": 34,
+        "fats_g": 14,
+        "fibre_g": 4,
+        "ayurveda": {
+            "vataEffect": "Balancing with ghee but heavy",
+            "pittaEffect": "Aggravating if very spicy",
+            "kaphaEffect": "Aggravating due to heaviness and dairy",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Breakfast, Brunch"
+        }
+    },
+    {
+        "id": 34,
+        "name": "Fruit Bowl (Seasonal)",
+        "category": "Snack",
+        "calories": 110,
+        "protein_g": 2,
+        "carbs_g": 26,
+        "fats_g": 0,
+        "fibre_g": 3,
+        "ayurveda": {
+            "vataEffect": "Balancing when ripe and sweet",
+            "pittaEffect": "Cooling and balancing",
+            "kaphaEffect": "Aggravating if very sweet and heavy",
+            "thermalNature": "Cooling",
+            "bestTimeToEat": "Morning, Empty stomach or mid-morning"
+        }
+    },
+    {
+        "id": 49,
+        "name": "Tandoori Roti",
+        "category": "Main",
+        "calories": 100,
+        "protein_g": 4,
+        "carbs_g": 20,
+        "fats_g": 1,
+        "fibre_g": 2,
+        "ayurveda": {
+            "vataEffect": "Slightly drying if eaten without ghee",
+            "pittaEffect": "Neutral",
+            "kaphaEffect": "Can aggravate if overeaten",
+            "thermalNature": "Neutral",
+            "bestTimeToEat": "Lunch, Dinner"
+        }
+    },
+    {
+        "id": 50,
+        "name": "Butter Naan",
+        "category": "Main",
+        "calories": 220,
+        "protein_g": 6,
+        "carbs_g": 30,
+        "fats_g": 9,
+        "fibre_g": 2,
+        "ayurveda": {
+            "vataEffect": "Balancing with butter but heavy",
+            "pittaEffect": "Aggravating if combined with very spicy curry",
+            "kaphaEffect": "Aggravating due to refined flour and fat",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Occasional lunch or dinner"
+        }
+    },
+    {
+        "id": 26,
+        "name": "Upma",
+        "category": "Breakfast",
+        "calories": 200,
+        "protein_g": 5,
+        "carbs_g": 30,
+        "fats_g": 7,
+        "fibre_g": 3,
+        "ayurveda": {
+            "vataEffect": "Balancing when served warm",
+            "pittaEffect": "Neutral",
+            "kaphaEffect": "Slightly aggravating if oily",
+            "thermalNature": "Neutral",
+            "bestTimeToEat": "Breakfast"
+        }
+    },
+    {
+        "id": 21,
+        "name": "Samosa",
+        "category": "Street Food",
+        "calories": 260,
+        "protein_g": 5,
+        "carbs_g": 30,
+        "fats_g": 14,
+        "fibre_g": 3,
+        "ayurveda": {
+            "vataEffect": "Highly aggravating (fried, dry)",
+            "pittaEffect": "Aggravating due to spice and fried nature",
+            "kaphaEffect": "Highly aggravating and heavy",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Occasional evening snack"
+        }
+    },
+    {
+        "id": 58,
+        "name": "Bhature",
+        "category": "Main",
+        "calories": 290,
+        "protein_g": 7,
+        "carbs_g": 38,
+        "fats_g": 12,
+        "fibre_g": 2,
+        "ayurveda": {
+            "vataEffect": "Aggravating (fried, fermented)",
+            "pittaEffect": "Aggravating with oily and spicy combinations",
+            "kaphaEffect": "Highly aggravating due to heaviness and oil",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Rare lunch treat"
+        }
+    },
+    {
+        "id": 65,
+        "name": "Pani Puri",
+        "category": "Street Food",
+        "calories": 180,
+        "protein_g": 4,
+        "carbs_g": 30,
+        "fats_g": 5,
+        "fibre_g": 2,
+        "ayurveda": {
+            "vataEffect": "Highly aggravating (air, crunch, raw)",
+            "pittaEffect": "Aggravating due to spicy and sour water",
+            "kaphaEffect": "Slightly aggravating but lighter than fried snacks",
+            "thermalNature": "Cooling-heating mixed",
+            "bestTimeToEat": "Occasional evening snack"
+        }
+    },
+    {
+        "id": 69,
+        "name": "Veg Hakka Noodles (Indian Style)",
+        "category": "Street Food",
+        "calories": 260,
+        "protein_g": 6,
+        "carbs_g": 40,
+        "fats_g": 8,
+        "fibre_g": 3,
+        "ayurveda": {
+            "vataEffect": "Aggravating due to dryness and stir-fry nature",
+            "pittaEffect": "Aggravating if very spicy and saucy",
+            "kaphaEffect": "Aggravating because of refined flour noodles",
+            "thermalNature": "Heating",
+            "bestTimeToEat": "Occasional lunch or evening"
+        }
+    }
+]
